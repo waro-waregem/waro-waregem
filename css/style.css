@@ -309,24 +309,69 @@ figure { margin: 0; }
 
 .breedbeeld { width: 200px; margin: 0 0 1.75em; }
 
-.contact-grid {
+/* Contact: foto's links, gegevens rechts */
+.contact {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 30px;
-  margin-top: 30px;
+  grid-template-columns: 1fr 1fr;
+  gap: 60px;
 }
-.contact-item { background: var(--licht); padding: 24px; }
-.contact-item h3 { font-size: 1.1rem; margin: 0 0 8px; }
-.contact-item p { margin: 0; }
-.contact-item .social { gap: 18px; margin-top: 4px; }
-.contact-item .social a { color: var(--titel); }
-.contact-item .social a:hover { color: var(--rood); }
-.contact-item .social svg { width: 26px; height: 26px; }
+.contact h2 { margin-bottom: 40px; }
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.photo-grid figure { position: relative; }
+.photo-grid img { width: 100%; aspect-ratio: 1; object-fit: cover; }
+.photo-grid figcaption {   /* naam van de fotograaf onderaan over de foto */
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 2px 8px;
+  font-size: .75rem;
+  color: var(--wit);
+  background: rgba(0, 0, 0, .5);
+}
+
+.contact-info h3 { font-size: 1.25rem; margin: 0 0 4px; }
+.contact-info p { margin: 0 0 22px; }
+
+.social-round { gap: 14px; margin-top: 12px; }
+.social-round a {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  background: var(--rood);
+  color: var(--wit);
+}
+.social-round a:hover { background: var(--rood-hover); color: var(--wit); }
+.social-round svg { width: 20px; height: 20px; }
+
+.partner-logos {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+  margin-top: 80px;
+}
+.partner-logos img { height: 110px; width: auto; }
 
 @media (max-width: 921px) {
   .page-hero { min-height: 300px; }
+  .contact { grid-template-columns: 1fr; gap: 40px; }
+  .contact h2 { margin-bottom: 24px; }
+  .contact-info { order: -1; }   /* op gsm eerst de gegevens, dan de foto's */
+  .partner-logos { margin-top: 50px; }
+  .partner-logos img { height: 80px; }
 }
 @media (max-width: 544px) {
   .page-hero { min-height: 240px; }
   .page-hero .hero-text { padding-top: 100px; padding-bottom: 40px; }
+  .photo-grid { grid-template-columns: repeat(2, 1fr); }
+  .partner-logos { gap: 24px; }
+  .partner-logos img { height: 60px; }
 }
