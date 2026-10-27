@@ -22,6 +22,7 @@ De site was eerst gemaakt met WordPress. Ze wordt nu herschreven als een
 | Home | `index.html` |
 | Waro, het verhaal | `verhaal.html` |
 | Lidmaatschap | `lidmaatschap.html` |
+| Galerij | `galerij.html` |
 | Contact | `contact.html` |
 
 ## Structuur
@@ -31,11 +32,12 @@ waro-waregem/
 ├── index.html
 ├── verhaal.html
 ├── lidmaatschap.html
+├── galerij.html
 ├── contact.html
 ├── css/
 │   └── style.css
 ├── js/
-│   └── main.js        (alleen als het nodig is)
+│   └── main.js        (spambescherming e-mail en lightbox)
 ├── images/            (logo, favicon en foto's)
 └── README.md
 ```
