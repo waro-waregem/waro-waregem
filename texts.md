@@ -56,7 +56,7 @@ Fotoclub WARO Waregem is een club, toegankelijk voor elke fotograaf. De beginnen
 
 In 1945 kreeg ik van mijn ouders een fototoestel: een box! Daarmee maakte ik mijn eerste foto’s. Voor de aankoop en ontwikkeling van deze 6 X 9 films had ik aankooppunten in Waregem: Studio Marc en Dirk Eggermont.
 
-In 1950 kocht ik bij Studio Marc een “Agfa Billy 1” en kon verder bij hem terecht voor advies. Hij bracht mij ook in contact met enkele jongeren uit zijn clientèle . Zo raakte ik bevriend met een aantal fotoliefhebbers uit de regio . Door mijn activiteiten in het verenigingsleven werden die contacten uitgebreid.
+In 1950 kocht ik bij Studio Marc een “Agfa Billy 1” en kon verder bij hem terecht voor advies. Hij bracht mij ook in contact met enkele jongeren uit zijn clientèle. Zo raakte ik bevriend met een aantal fotoliefhebbers uit de regio. Door mijn activiteiten in het verenigingsleven werden die contacten uitgebreid.
 
 Rond de jaren ‘60 waren wij reeds met enkele fotoliefhebbers die regelmatig afspraken op café om onze realisaties te bespreken.
 
@@ -88,7 +88,7 @@ In 1972 werd in Waregem het cultureel centrum officieel geopend. De club kreeg d
 
 Bij het 30-jarig bestaan werd de club gehuldigd op het gemeentehuis te Waregem. Burgemeester Guido Carron opende in een overvolle raadszaal de feestzitting. 
 
-Willy Spegelaere, toenmalig ondervoorzitter van zowel de Vlaamse Federatie van Fotokringen als het West- Vlaams Verbond van Foto- en Diakringen, schetste de jarenlange samenwerking met WARO .
+Willy Spegelaere, toenmalig ondervoorzitter van zowel de Vlaamse Federatie van Fotokringen als het West- Vlaams Verbond van Foto- en Diakringen, schetste de jarenlange samenwerking met WARO.
 
 Minister van Buitenlandse Zaken Eric Derycke opende de tentoonstellingen met werken van de leden en de reeks “Waregemse Dames in de Kijker”.
 
@@ -117,7 +117,7 @@ Deelnemingsformulieren werden wereldwijd verspreid. Deelnemers uit 54 verschille
 
 De analoge fotografie verloor stilaan veld op de nieuwe rage. Praktisch alle WARO-leden deden de overstap naar het nieuwe medium. Wat begon met beperkte digitale reportages met foto’s in klein formaat is uitgegroeid tot een “productie” van degelijk afgewerkte montages. Tentoonstellingen en digitale presentaties volgden elkaar op.
 
-Alles kwam in een stroomverstelling terecht door het maken van de digitale projecties op het interne tv-circuit van het Regenboogstadion. De clubfoto’s kwamen op verschillende websites terecht. Het aantal clubactiviteiten steeg zienderogen.
+Alles kwam in een stroomversnelling terecht door het maken van de digitale projecties op het interne tv-circuit van het Regenboogstadion. De clubfoto’s kwamen op verschillende websites terecht. Het aantal clubactiviteiten steeg zienderogen.
 
 In clubverband werden bij diverse activiteiten soms tot duizenden digitale foto’s geteld. Naast de reportages voor, tijdens en na de voetbalwedstrijden van SV Zulte Waregem kwamen daarbij de reportages over De Ballonhappening en Waregem Kinderstad. Reeds vanaf het begin van deze activiteiten van Stad Waregem op de hippodroom, staat WARO in voor de projecties op het interne circuit van de hippodroom. Met reportages over de concerten in het Park Casier, de Koetsentocht, de opening van de Waregem Koersefeesten, De Nacht van de Humor, Waregem Koerse, de Frans-Vlaamse Cultuurdagen, de tentoonstellingen en reportages rond “De Flandriens”, activiteiten van Somival e.a., dienden zich nog meerdere mogelijkheden aan om ons digitaal uit te leven.
 
@@ -163,20 +163,17 @@ Dan ben je van harte welkom in onze club.
 
 Wij komen maandelijks bijeen op zondag voormiddag en hebben tussendoor verschillende praktijklessen.
 
-Wens je meer info, klik dan om onderstaande link.
-
 ## Lid worden bij WARO.
 
 Men kan op volgende wijze lid worden van de club:
 
-- men dient te beschikken over een Breedbeeld* kaart op de naam van WARO
-- of indien men beschikt over een Breedbeeld* kaart van een andere fotoclub
+- men dient te beschikken over een Breedbeeld kaart op de naam van WARO
+- of indien men beschikt over een Breedbeeld kaart van een andere fotoclub
 Wie een Breedbeeld-kaart aanvraagt via onze club is automatisch lid van WARO.
 
 Met een dergelijke pas is men verzekerd tijdens de activiteiten georganiseerd door WARO.
 
 Daarnaast zijn er nog voordelen (regeling met SABAM) voor wie werkt met muziek.
-Meer info: Werken met muziek.
 
 **Het jaarlijks lidgeld bedraagt €25,00.**
 Er kan een fysieke lidkaart, dwz. Breedbeeld-pas aangevraagd worden, maar dit is niet verplicht. Voor de fysieke lidkaart betaal je eenmalig €25,00 extra (een kaart voor het leven, dus zonder vervaldatum).
