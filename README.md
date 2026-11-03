@@ -39,6 +39,8 @@ waro-waregem/
 ├── js/
 │   └── main.js        (spambescherming e-mail en lightbox)
 ├── images/            (logo, favicon en foto's)
+│   ├── leden/         (foto's van de leden, verkleind tot max. 1600 px)
+│   └── klein/         (kleine versies voor de fotorasters, max. 800 px)
 └── README.md
 ```
 
