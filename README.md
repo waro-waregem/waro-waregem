@@ -24,6 +24,7 @@ De site was eerst gemaakt met WordPress. Ze wordt nu herschreven als een
 | Lidmaatschap | `lidmaatschap.html` |
 | Galerij | `galerij.html` |
 | Contact | `contact.html` |
+| Privacyverklaring | `privacy.html` (link in de footer) |
 
 ## Structuur
 
@@ -34,6 +35,7 @@ waro-waregem/
 ├── lidmaatschap.html
 ├── galerij.html
 ├── contact.html
+├── privacy.html
 ├── css/
 │   └── style.css
 ├── js/

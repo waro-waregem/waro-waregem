@@ -328,6 +328,50 @@ figure { margin: 0; }
   .photo-grid img { transition: none; }
 }
 
+/* ---------- Knop 'naar boven' (zonder JavaScript) ---------- */
+
+html { scroll-behavior: smooth; }
+
+.naar-boven {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: var(--rood);
+  color: var(--wit);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, .3);
+}
+.naar-boven:hover, .naar-boven:focus { background: var(--rood-hover); color: var(--wit); }
+.naar-boven:focus-visible { outline: 2px dotted var(--titel); outline-offset: 3px; }
+.naar-boven svg { width: 24px; height: 24px; fill: currentColor; }
+
+/* In browsers die het kunnen, verschijnt de knop pas na 300 px scrollen. */
+@supports (animation-timeline: scroll()) {
+  .naar-boven {
+    animation: naar-boven-verschijn linear both;
+    animation-timeline: scroll();
+    animation-range: 0 300px;
+  }
+  @keyframes naar-boven-verschijn {
+    from { opacity: 0; visibility: hidden; }
+    to   { opacity: 1; visibility: visible; }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+@media (max-width: 544px) {
+  .naar-boven { right: 14px; bottom: 14px; width: 44px; height: 44px; }
+}
+
 /* ---------- Footer ---------- */
 
 .site-footer {
@@ -341,6 +385,8 @@ figure { margin: 0; }
 .site-footer a:hover { color: var(--rood); }
 .social-footer { justify-content: center; margin: 10px 0 20px; gap: 18px; }
 .social-footer svg { width: 22px; height: 22px; }
+.footer-links { font-size: .9rem; }
+.footer-links a { text-decoration: underline; text-underline-offset: 3px; }
 .copyright { font-size: .9rem; }
 
 /* ---------- Tablet en gsm ---------- */
