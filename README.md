@@ -36,6 +36,9 @@ waro-waregem/
 ├── galerij.html
 ├── contact.html
 ├── privacy.html
+├── 404.html         (foutpagina voor adressen die niet bestaan)
+├── sitemap.xml, robots.txt  (voor zoekmachines)
+├── waro-het-verhaal/, lidmaatschap/, contact/, ...  (doorverwijzingen van de oude WordPress-adressen)
 ├── css/
 │   └── style.css
 ├── js/
